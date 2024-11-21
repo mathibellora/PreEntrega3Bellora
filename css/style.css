@@ -33,6 +33,10 @@ body {
   background-color: #A9D8B8;
 }
 
+h1.tituloper {
+  font-size: 150px;
+}
+
 body {
   background-color: #A9D8B8 !important;
   font-family: "Bangers", system-ui !important;
