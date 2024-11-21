@@ -1,3 +1,3 @@
-# Pre Entrega 2 - Mathias Bellora
+# Pre Entrega 3 - Mathias Bellora
 
-Pre entrega 2 - Landing page usando bootstrap funcionando en PC y Mobile
+Pre entrega 3 - Dos paginas web index.html y personajes.html agregando SASS , SEO y animaciones a lo hecho en la entrega anterior.
